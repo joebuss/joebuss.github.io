@@ -194,7 +194,7 @@ $(document).ready(function () {
 
             // You can also choose to set an end time
             // If an end time is set, this will take precedence over duration
-            end: new Date('June 14, 2025 20:30'),
+            end: new Date('June 14, 2025 21:30'),
 
 
             // Event Address
